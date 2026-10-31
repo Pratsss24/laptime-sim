@@ -1,0 +1,26 @@
+{
+  "monza": {
+    "circuit": "monza",
+    "season": 2026,
+    "race": "Italian Grand Prix",
+    "driver": "Antonelli",
+    "lap_time": 83.504,
+    "lap_number": 53
+  },
+  "monaco": {
+    "circuit": "monaco",
+    "season": 2026,
+    "race": "Monaco Grand Prix",
+    "driver": "Antonelli",
+    "lap_time": 73.481,
+    "lap_number": 76
+  },
+  "silverstone": {
+    "circuit": "silverstone",
+    "season": 2026,
+    "race": "British Grand Prix",
+    "driver": "Antonelli",
+    "lap_time": 91.777,
+    "lap_number": 37
+  }
+}

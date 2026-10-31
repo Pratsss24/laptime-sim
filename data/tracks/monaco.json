@@ -1,0 +1,188 @@
+{
+  "name": "Monaco (approximate)",
+  "_comment": "Circuit de Monaco, 3337 m, clockwise. The high-downforce extreme: almost no straight, and the slowest corner in Formula 1. Geometry estimated from the public layout, not surveyed.",
+  "segments": [
+    {
+      "type": "straight",
+      "length": 368.1
+    },
+    {
+      "type": "corner",
+      "radius": 30,
+      "angle": 60,
+      "direction": "right",
+      "name": "Sainte Devote"
+    },
+    {
+      "type": "straight",
+      "length": 466.2
+    },
+    {
+      "type": "corner",
+      "radius": 60,
+      "angle": 115,
+      "direction": "left",
+      "name": "Massenet"
+    },
+    {
+      "type": "straight",
+      "length": 49.1
+    },
+    {
+      "type": "corner",
+      "radius": 45,
+      "angle": 50,
+      "direction": "right",
+      "name": "Casino"
+    },
+    {
+      "type": "straight",
+      "length": 116.5
+    },
+    {
+      "type": "corner",
+      "radius": 22,
+      "angle": 70,
+      "direction": "right",
+      "name": "Mirabeau"
+    },
+    {
+      "type": "straight",
+      "length": 85.8
+    },
+    {
+      "type": "corner",
+      "radius": 9,
+      "angle": 180,
+      "direction": "right",
+      "name": "Fairmont Hairpin"
+    },
+    {
+      "type": "straight",
+      "length": 104.4
+    },
+    {
+      "type": "corner",
+      "radius": 28,
+      "angle": 70,
+      "direction": "right",
+      "name": "Portier"
+    },
+    {
+      "type": "straight",
+      "length": 122.7
+    },
+    {
+      "type": "corner",
+      "radius": 320,
+      "angle": 25,
+      "direction": "right",
+      "name": "Tunnel"
+    },
+    {
+      "type": "straight",
+      "length": 270.0
+    },
+    {
+      "type": "corner",
+      "radius": 26,
+      "angle": 60,
+      "direction": "right",
+      "name": "Nouvelle Chicane 1"
+    },
+    {
+      "type": "straight",
+      "length": 36.9
+    },
+    {
+      "type": "corner",
+      "radius": 26,
+      "angle": 70,
+      "direction": "left",
+      "name": "Nouvelle Chicane 2"
+    },
+    {
+      "type": "straight",
+      "length": 257.7
+    },
+    {
+      "type": "corner",
+      "radius": 55,
+      "angle": 110,
+      "direction": "left",
+      "name": "Tabac"
+    },
+    {
+      "type": "straight",
+      "length": 110.5
+    },
+    {
+      "type": "corner",
+      "radius": 60,
+      "angle": 100,
+      "direction": "left",
+      "name": "Swimming Pool 1"
+    },
+    {
+      "type": "straight",
+      "length": 43.0
+    },
+    {
+      "type": "corner",
+      "radius": 55,
+      "angle": 55,
+      "direction": "right",
+      "name": "Swimming Pool 2"
+    },
+    {
+      "type": "straight",
+      "length": 73.6
+    },
+    {
+      "type": "corner",
+      "radius": 20,
+      "angle": 50,
+      "direction": "right",
+      "name": "Swimming Pool 3"
+    },
+    {
+      "type": "straight",
+      "length": 36.9
+    },
+    {
+      "type": "corner",
+      "radius": 20,
+      "angle": 85,
+      "direction": "left",
+      "name": "Swimming Pool 4"
+    },
+    {
+      "type": "straight",
+      "length": 85.8
+    },
+    {
+      "type": "corner",
+      "radius": 11,
+      "angle": 150,
+      "direction": "right",
+      "name": "Rascasse"
+    },
+    {
+      "type": "straight",
+      "length": 73.6
+    },
+    {
+      "type": "corner",
+      "radius": 28,
+      "angle": 70,
+      "direction": "right",
+      "name": "Antony Noghes"
+    },
+    {
+      "type": "straight",
+      "length": 184.0
+    }
+  ],
+  "official_length_m": 3337.0,
+  "straight_scale_applied": 1.0016
+}

@@ -1,0 +1,14 @@
+{
+  "_comment": "A 2026-regulation Formula car, order-of-magnitude. Public figures only; no team data. Mass is the 768 kg minimum plus a part-race fuel load. Power is the combined 400 kW combustion and ~350 kW electric deployment, treated as always available - see Scope in the README, because the real energy budget is finite. v_max is set high on purpose so that top speed is set by drag, not by a gearing cap: a binding cap would make added drag free and destroy the downforce trade-off.",
+  "name": "2026-spec formula car",
+  "mass": 800.0,
+  "power_kw": 750.0,
+  "efficiency": 0.95,
+  "cda": 1.05,
+  "cla": 3.6,
+  "mu": 1.75,
+  "load_sensitivity": 0.25,
+  "reference_load": 7000.0,
+  "rolling_resistance": 0.012,
+  "v_max": 125.0
+}

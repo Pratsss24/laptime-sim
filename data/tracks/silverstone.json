@@ -1,0 +1,177 @@
+{
+  "name": "Silverstone (approximate)",
+  "_comment": "Silverstone Circuit, 5891 m, clockwise. The medium-to-high downforce case: long fast corners where downforce pays directly in cornering speed. Geometry estimated from the public layout, not surveyed.",
+  "segments": [
+    {
+      "type": "straight",
+      "length": 340.9
+    },
+    {
+      "type": "corner",
+      "radius": 95,
+      "angle": 70,
+      "direction": "right",
+      "name": "Abbey"
+    },
+    {
+      "type": "straight",
+      "length": 102.3
+    },
+    {
+      "type": "corner",
+      "radius": 140,
+      "angle": 45,
+      "direction": "left",
+      "name": "Farm Curve"
+    },
+    {
+      "type": "straight",
+      "length": 196.0
+    },
+    {
+      "type": "corner",
+      "radius": 42,
+      "angle": 95,
+      "direction": "right",
+      "name": "Village"
+    },
+    {
+      "type": "straight",
+      "length": 51.1
+    },
+    {
+      "type": "corner",
+      "radius": 55,
+      "angle": 110,
+      "direction": "left",
+      "name": "The Loop"
+    },
+    {
+      "type": "straight",
+      "length": 153.4
+    },
+    {
+      "type": "corner",
+      "radius": 150,
+      "angle": 35,
+      "direction": "right",
+      "name": "Aintree"
+    },
+    {
+      "type": "straight",
+      "length": 613.6
+    },
+    {
+      "type": "corner",
+      "radius": 110,
+      "angle": 60,
+      "direction": "right",
+      "name": "Brooklands"
+    },
+    {
+      "type": "straight",
+      "length": 76.7
+    },
+    {
+      "type": "corner",
+      "radius": 85,
+      "angle": 75,
+      "direction": "right",
+      "name": "Luffield"
+    },
+    {
+      "type": "straight",
+      "length": 127.8
+    },
+    {
+      "type": "corner",
+      "radius": 190,
+      "angle": 40,
+      "direction": "right",
+      "name": "Woodcote"
+    },
+    {
+      "type": "straight",
+      "length": 477.2
+    },
+    {
+      "type": "corner",
+      "radius": 260,
+      "angle": 55,
+      "direction": "right",
+      "name": "Copse"
+    },
+    {
+      "type": "straight",
+      "length": 281.2
+    },
+    {
+      "type": "corner",
+      "radius": 190,
+      "angle": 60,
+      "direction": "left",
+      "name": "Maggotts"
+    },
+    {
+      "type": "straight",
+      "length": 51.1
+    },
+    {
+      "type": "corner",
+      "radius": 160,
+      "angle": 65,
+      "direction": "right",
+      "name": "Becketts"
+    },
+    {
+      "type": "straight",
+      "length": 42.6
+    },
+    {
+      "type": "corner",
+      "radius": 130,
+      "angle": 50,
+      "direction": "left",
+      "name": "Chapel"
+    },
+    {
+      "type": "straight",
+      "length": 656.2
+    },
+    {
+      "type": "corner",
+      "radius": 100,
+      "angle": 95,
+      "direction": "right",
+      "name": "Stowe"
+    },
+    {
+      "type": "straight",
+      "length": 460.2
+    },
+    {
+      "type": "corner",
+      "radius": 45,
+      "angle": 70,
+      "direction": "left",
+      "name": "Vale"
+    },
+    {
+      "type": "straight",
+      "length": 51.1
+    },
+    {
+      "type": "corner",
+      "radius": 75,
+      "angle": 105,
+      "direction": "right",
+      "name": "Club"
+    },
+    {
+      "type": "straight",
+      "length": 255.7
+    }
+  ],
+  "official_length_m": 5891.0,
+  "straight_scale_applied": 1.0
+}
