@@ -154,11 +154,11 @@ def main() -> int:
         "calibration": charts.calibration(calibration, out_dir),
         "convergence": charts.convergence(convergence, out_dir),
     }
-    html = report.build(results, comparisons, sweeps_by_track, cross,
-                        sensitivity_rows, calibration, figures,
-                        out_dir / "report.html", car)
+    report_path = report.build(results, comparisons, sweeps_by_track, cross,
+                               sensitivity_rows, calibration, figures,
+                               out_dir / "report.pdf", car)
 
-    print(f"\nreport  {html}")
+    print(f"\nreport  {report_path}")
     for path in figures.values():
         print(f"figure  {path}")
     return 0

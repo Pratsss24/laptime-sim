@@ -269,7 +269,8 @@ simply the end of a straight arriving.
 | `src/solver.py` | The three passes, and the regime classifier. |
 | `src/sweeps.py` | Downforce trade, sensitivities, the grip calibration test. |
 | `src/validate.py` | Real lap times from the Jolpica API, cached. |
-| `src/charts.py`, `src/report.py` | Six figures and a self-contained HTML report. |
+| `src/charts.py`, `src/report.py` | Six figures and a printable PDF report. |
+| `src/paper.py` | Page composition: A4 pages, tables, figure bands. |
 | `tools/fit_tracks.py` | Makes the hand-drawn circuits close and match official length. |
 | `data/tracks/*.json` | Three circuits as straights and arcs. |
 
